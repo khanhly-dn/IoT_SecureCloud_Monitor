@@ -251,6 +251,14 @@ cp main/config.example.h main/config.h
 
 ---
 
+### 📊 Kết quả thực tế
+
+| Firebase Realtime Database | HiveMQ MQTT Web Client |
+|:---:|:---:|
+| ![Firebase](https://github.com/khanhly-dn/IoT_SecureCloud_Monitor/blob/main/KQ_Firebase.png?raw=true) | ![HiveMQ](https://github.com/khanhly-dn/IoT_SecureCloud_Monitor/blob/main/KQ_HIVEMQ.png?raw=true) |
+| Dữ liệu có chữ ký HMAC · lưu /live và /history | Messages real-time · topic sensors |
+---
+
 ## 🔭 Hướng phát triển
 
 - [ ] Dashboard web hiển thị biểu đồ dữ liệu theo thời gian thực
