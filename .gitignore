@@ -1,0 +1,9 @@
+# Quan trong: an thong tin nhay cam khoi git
+config.h
+
+# Build output
+*.bin
+*.elf
+*.map
+.pio/
+.vscode/
