@@ -258,7 +258,7 @@ cp main/config.example.h main/config.h
 | ![Firebase](https://github.com/khanhly-dn/IoT_SecureCloud_Monitor/blob/main/KQ_Firebase.png?raw=true) | ![HiveMQ](https://github.com/khanhly-dn/IoT_SecureCloud_Monitor/blob/main/KQ_HIVEMQ.png?raw=true) |
 | Dữ liệu có chữ ký HMAC · lưu /live và /history | Messages real-time · topic sensors |
 
-🎬 **Video hoạt động:** *https://drive.google.com/file/d/1uQ9-96Eneh9pxS7wGY8gWtTG6LRalRix/view?usp=sharing*
+🎬 **Video hoạt động:** *https://drive.google.com/file/d/10VDig8NiFqbIpVDX4WSg43qaCOd_aziG/view?usp=sharing*
 
 ---
 
